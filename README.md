@@ -73,5 +73,5 @@ You can use the website to generate badges: https://shields.io/
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img width="60%" alt="Osee's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&bg_color=30,e96443,904e95&title_color=00f&text_color=fff" />
+    <img width="60%" alt="Osee's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
  </a>
