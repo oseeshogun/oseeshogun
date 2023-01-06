@@ -69,9 +69,9 @@ You can use the website to generate badges: https://shields.io/
 ---
 
 <a href="https://github.com/oseeshogun/github-readme-stats">
-   <img width="60%" alt="Osee's github stats" src="https://github-readme-stats.vercel.app/api?username=oseeshogun&show_icons=true&hide_border=true&bg_color=30,e96443,904e95" />
+   <img width="60%" alt="Osee's github stats" src="https://github-readme-stats.vercel.app/api?username=oseeshogun&show_icons=true&hide_border=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img width="60%" alt="Osee's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
+    <img width="60%" alt="Osee's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&bg_color=30,e96443,904e95&title_color=00f&text_color=fff" />
  </a>
