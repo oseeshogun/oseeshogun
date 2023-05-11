@@ -14,7 +14,7 @@ You can use the website to generate badges: https://shields.io/
 <!-- Talking about you -->
 **About Me:**
 
-- I’m currently working on __[Faithful](https://faithful-tech.com)__.
+- I’m currently working on __[Schoolap](https://schoolap.com/)__.
 - I’m currently learning __GoLang__.
 - I’m looking to collaborate on anything!
 - Ask me about anything, I am happy to help.
